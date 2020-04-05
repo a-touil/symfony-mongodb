@@ -1,5 +1,12 @@
-# Symfony 5 & MongoDB (REST API)
+# Symfony & MongoDB (REST API)
 Restaurant Finder
+
+This project integrate the following technologies and frameworks:
+- Database NoSQL document oriented : MongoDB
+- Symfony 5.1
+- API Platform
+- GraphQL
+
 
 ### Pre-required
 - Assuming that you have Docker installed on your server.
