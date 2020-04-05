@@ -3,7 +3,7 @@ Restaurant Finder
 
 This project integrate the following technologies and frameworks:
 - Database NoSQL document oriented : MongoDB
-- Symfony 5.1
+- Symfony LTS Release (4.4.7)
 - API Platform
 - GraphQL
 
