@@ -13,7 +13,7 @@ This project integrate the following technologies and frameworks:
 
 
 ### Usage
-Downloading the MongoDB image, the following command will get the 4.2.5-bionic tag, you can delete if you want get the latest version:
+Downloading the MongoDB image, the following command will get the 4.2.5-bionic tag, you can delete this tag if you want get the latest version:
 ```bash
 docker pull mongo:4.2.5-bionic
 ```
