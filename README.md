@@ -1,4 +1,4 @@
-# Symfony & MongoDB (REST API)
+# Symfony 5 & MongoDB (REST API)
 Restaurant Finder
 
 ### Pre-required
